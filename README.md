@@ -13,21 +13,20 @@ Bem-vindo ao meu portfólio de análise de dados! Aqui apresento soluções dese
 
 ---
 
-## 🛍️ 2. Controle de Vendas e Metas
+## 🚗 2. Gestão de Locação - Frota Peugeot 
+**Foco:** Logística e Faturamento de Serviços. 
+- **Destaques:** Controle de quilometragem média, faturamento total e status de veículos (Ativo/Inativo). 
+- **Insights:** Ranking de faturamento por dia da semana e consulta rápida de placas, ideal para automação de processos logísticos. 
+![Locação Peugeot](img/DashBoard2_LocacaoPeugeot.png)
+
+---
+
+## 🛍️ 3. Controle de Vendas e Metas
 **Foco:** Performance Comercial e Faturamento.
 - **Destaques:** Acompanhamento de metas anuais (2018-2020) com indicadores tipo "velocímetro", faturamento por vendedor e análise de cancelamentos.
 - **Insights:** Comparativo histórico (2019 x 2020) e detalhamento de vendas por forma de pagamento e cupom fiscal.
 
-![Controle de Vendas](img/DashBoard2_ControleVendas.png)
-
----
-
-## 🚗 3. Gestão de Locação - Frota Peugeot
-**Foco:** Logística e Faturamento de Serviços.
-- **Destaques:** Controle de quilometragem média, faturamento total e status de veículos (Ativo/Inativo).
-- **Insights:** Ranking de faturamento por dia da semana e consulta rápida de placas, ideal para automação de processos logísticos.
-
-![Locação Peugeot](img/DashBoard3_LocacaoPeugeot.png)
+![Controle de Vendas](img/DashBoard3_ControleVendas.png)
 
 ---
 
