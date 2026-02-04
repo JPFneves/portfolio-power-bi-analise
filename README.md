@@ -9,7 +9,7 @@ Bem-vindo ao meu portfólio de análise de dados! Aqui apresento soluções dese
 - **Destaques:** Análise de despesas salariais por filial (SP, RJ, MG), distribuição por gênero e média de idade. 
 - **Insights:** Visualização clara de faltas por filial e ranking de salários por departamento, facilitando a identificação de custos operacionais.
 
-![Acompanhamento RH](DashBoard1_AcompanhamentoRH.png)
+![Acompanhamento RH](img/DashBoard1_AcompanhamentoRH.png)
 
 ---
 
@@ -18,7 +18,7 @@ Bem-vindo ao meu portfólio de análise de dados! Aqui apresento soluções dese
 - **Destaques:** Acompanhamento de metas anuais (2018-2020) com indicadores tipo "velocímetro", faturamento por vendedor e análise de cancelamentos.
 - **Insights:** Comparativo histórico (2019 x 2020) e detalhamento de vendas por forma de pagamento e cupom fiscal.
 
-![Controle de Vendas](DashBoard2_ControleVendas.png)
+![Controle de Vendas](img/DashBoard2_ControleVendas.png)
 
 ---
 
@@ -27,7 +27,7 @@ Bem-vindo ao meu portfólio de análise de dados! Aqui apresento soluções dese
 - **Destaques:** Controle de quilometragem média, faturamento total e status de veículos (Ativo/Inativo).
 - **Insights:** Ranking de faturamento por dia da semana e consulta rápida de placas, ideal para automação de processos logísticos.
 
-![Locação Peugeot](DashBoard3_LocacaoPeugeot.png)
+![Locação Peugeot](img/DashBoard3_LocacaoPeugeot.png)
 
 ---
 
@@ -36,7 +36,7 @@ Bem-vindo ao meu portfólio de análise de dados! Aqui apresento soluções dese
 - **Destaques:** Indicadores de inadimplência por curso, total de alunos por prédio e análise de entrega de diplomas.
 - **Insights:** Percentual de faturamento por curso e perfil demográfico dos alunos, voltado para a gestão estratégica da instituição.
 
-![Gestão Acadêmica](DashBoard4_FaculdadeSaoLourenco.png)
+![Gestão Acadêmica](img/DashBoard4_FaculdadeSaoLourenco.png)
 
 ---
 
