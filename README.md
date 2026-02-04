@@ -40,10 +40,10 @@ Bem-vindo ao meu portfólio de análise de dados! Aqui apresento soluções dese
 ---
 
 ### 🛠️ Competências Técnicas Demonstradas:
-- **Modelagem de Dados:** Integração de tabelas Excel e SQL.
+- **Modelagem de Dados:** Estruturação de dados provenientes de planilhas Excel (limpeza e tratamento).
 - **DAX Avançado:** Criação de medidas para cálculo de metas, faturamento acumulado e médias dinâmicas.
 - **Visualização de Dados:** Design de Dashboards intuitivos com filtros segmentados por data, categoria e status.
-- **ETL (Power Query):** Tratamento e limpeza de dados brutos para relatórios precisos.
+- **ETL (Power Query):** Tratamento e transformação de dados brutos para relatórios precisos.
 
 ---
 **📍 João Pedro Faria** *Graduando em ADS - Centro Universitário São Lourenço* [LinkedIn](https://www.linkedin.com/in/joaopedronevesfaria)
